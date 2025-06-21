@@ -11,7 +11,7 @@ http://37.247.98.8/stream/25/
 http://arabeskalemi.net:9300/;
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-o0KdLbjN2rE/WbFEfCgOsnI/AAAAAAAAVRI/QDOEE3TF9M0HQWLJnTxnwp4dIbslNCnrwCLcBGAs/s1600/a.jpg" group-title="RADYO 01",AVRASYA TÜRK
 https://sslyayin.netyayin.net:10909/;
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-edZ1Pup4v_o/WZ8IoosUR6I/AAAAAAAAT14/F6PBLVZIU9EI2phfN9yyLydnBZ03iFsTgCLcBGAs/s1600/11.jpg" group-title="RADYO 01",BİLECİK FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Rzvj30HsDnbmx4LmE1yIGoYW40haUOMTzQ&s" group-title="RADYO 01",BİLECİK FM
 http://bilecikfm.kesintisizyayin.com:9980/;
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-mKOOmrIdRtg/WZ8JY-eEr3I/AAAAAAAAT2A/U_KU1SbqF1k9WgUT_otAvOecnsnLDFpJwCLcBGAs/s1600/12.jpg" group-title="RADYO 01",BİLECİK RADYO 11
 http://ip131.radyotelekom.com:9832/;
@@ -29,7 +29,7 @@ http://yayin.netyayin.net:1515/streype=.mp3
 http://37.247.98.8/stream/19/
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YRswiKMyLUM/WaOvzMCvuJI/AAAAAAAAUHk/gu89ed7glGssGkDCRPBUtpWEaegSFdJAgCLcBGAs/s1600/ege.jpg" group-title="RADYO 02",EGE HAVALARI
 http://37.247.98.8/stream/29/
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Yovc1dbCO64/WaO3DwdPeqI/AAAAAAAAUII/LGLw5izmSy49C8k7puiOndZ3DXZZTYphwCLcBGAs/s1600/2000.jpg" group-title="RADYO 02",ELAZIĞ RADYO 2000
+#EXTINF:-1 tvg-logo="https://www.kreactif.com/photo/images/logolar/radyo-2000-elazig-logo.jpg" group-title="RADYO 02",ELAZIĞ RADYO 2000
 http://yayin.turkiletisim.com.tr:1092/;
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4e1srtlSYMo/Wto-6HrLoCI/AAAAAAAAWDo/tmfANNIgfR4CfDV92IprjuZKRwRequpcwCLcBGAs/s1600/h.jpg" group-title="RADYO 02",ELAZIĞ RADYO HAZAR
 http://radyohazar.canliyayinda.com:8286/;
