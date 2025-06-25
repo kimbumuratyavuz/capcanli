@@ -24,51 +24,29 @@ https://live-cdn-65984.varplaycdn.cfd/tv85/index.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Beyaz-TV.png" group-title="TR:Ulusal",BEYAZ TV HD
 https://live-cdn-65984.varplaycdn.cfd/beyaztv/index.m3u8
 #EXTINF:-1 tvg-name="360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR:Ulusal",360 HD
-https://live-cdn-65984.varplaycdn.cfd/360/index.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/2560px-Haber_Global_logo.svg.png" group-title="TR:Haber",HABER GLOBAL HD
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/1200px-NTV_%28Turkey%29_logo.svg.png" group-title="TR:Haber",NTV HD
-https://live-cdn-65984.varplaycdn.cfd/ntv/index.m3u8
 #EXTINF:-1 tvg-name="ÜLKE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/2560px-%C3%9Clke_TV_logo.svg.png" group-title="TR:Haber",ÜLKE TV HD
 https://live-cdn-65984.varplaycdn.cfd/ulke/index.m3u8
-#EXTINF:-1 tvg-name="CNN TURK HD" tvg-logo="https://gbzottvsc29.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008479090/2bc3b2ae-9d09-4380-bc32-3e6affca7626.png" group-title="TR:Haber",CNN TURK HD
-https://live-cdn-65984.varplaycdn.cfd/cnnturk/index.m3u8
 #EXTINF:-1 tvg-name="A HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="TR:Haber",A HABER HD
 https://live-cdn-65984.varplaycdn.cfd/ahaber/index.m3u8
 #EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR:Haber",SÖZCÜ TV HD
 https://live-cdn-65984.varplaycdn.cfd/sozcu/index.m3u8
 #EXTINF:-1 tvg-name="TRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR:Haber",TRT HABER HD
-https://live-cdn-65984.varplaycdn.cfd/trthaber/index.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="TR:Haber",TGRT HABER HD
-https://live-cdn-65984.varplaycdn.cfd/tgrthaber/index.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="HABERTÜRK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/1200px-Habert%C3%BCrk_TV_logo.svg.png" group-title="TR:Haber",HABERTÜRK HD
 https://live-cdn-65984.varplaycdn.cfd/haberturk/index.m3u8
 #EXTINF:-1 tvg-name="EKOTÜRK HD" tvg-logo="https://izmottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/52/2116555980605eb9542c_op_0_XL.webp" group-title="TR:Haber",EKOTÜRK HD
 https://live-cdn-65984.varplaycdn.cfd/ekoturk/index.m3u8
 #EXTINF:-1 tvg-name="HALK TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="TR:Haber",HALK TV HD
 https://live-cdn-65984.varplaycdn.cfd/halktv/index.m3u8
-#EXTINF:-1 tvg-name="TELE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="TR:Haber",TELE 1 HD
-https://live-cdn-65984.varplaycdn.cfd/tele1/index.m3u8
 #EXTINF:-1 tvg-name="TV100 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="TR:Haber",TV100 HD
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-name="24 Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png" group-title="TR:Haber",24 Tv
-https://ottcdn.kablowereceived.net/live_turksat_sub3/24tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM2IEFNJmhhc2hfdmFsdWU9VFNsdXFrNVBseVVnN0JnbFlXU2M2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="Bloomberg Ht" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png" group-title="TR:Haber",Bloomberg Ht
-https://ottcdn.kablowebtv.net/live_turksat_sub3/bloomberg_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM3IEFNJmhhc2hfdmFsdWU9aThZVG5UdkY0RW9vM1ZKZmk1bnVMdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="Lider Haber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ccf5746a-1eda-45ed-9afc-5e281fa7a704.png" group-title="TR:Haber",Lider Haber
-https://ottcdn.kablowebtv.net/live_turksat_sub3/liderhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM3IEFNJmhhc2hfdmFsdWU9aThZVG5UdkY0RW9vM1ZKZmk1bnVMdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="Tele 1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/50921da2-0f81-40cf-971b-1b3db26245d7.png" group-title="TR:Haber",Tele 1
-https://ottcdn.kablowebtv.net/live_turksat_sub3/tele1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM3IEFNJmhhc2hfdmFsdWU9aThZVG5UdkY0RW9vM1ZKZmk1bnVMdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="As Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bb23721e-664b-48c6-a9f4-5e55f890f026.png" group-title="TR:Haber",As Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/astv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM3IEFNJmhhc2hfdmFsdWU9aThZVG5UdkY0RW9vM1ZKZmk1bnVMdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="A Para" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/cf2bdbf5-2686-4437-9e8b-33d80385645c.png" group-title="TR:Haber",A Para
-https://ottcdn.kablowebtv.net/live_turksat_sub3/apara_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM2IEFNJmhhc2hfdmFsdWU9VFNsdXFrNVBseVVnN0JnbFlXU2M2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="Krt Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" group-title="TR:Haber",Krt Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM3IEFNJmhhc2hfdmFsdWU9aThZVG5UdkY0RW9vM1ZKZmk1bnVMdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="Brt 1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" group-title="TR:Haber",Brt 1
-https://ottcdn.kablowebtv.net/live_turksat_sub3/brt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM3IEFNJmhhc2hfdmFsdWU9aThZVG5UdkY0RW9vM1ZKZmk1bnVMdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
-#EXTINF:-1 tvg-name="Akit Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" group-title="TR:Haber",Akit Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/akittv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM2IEFNJmhhc2hfdmFsdWU9VFNsdXFrNVBseVVnN0JnbFlXU2M2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+EXTINF:-1 tvg-name="Akit Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" group-title="TR:Haber",Akit Tv
+https://akittv-live.ercdn.net/akittv/akittv_480p.m3u8?hash=5289e42277ba7b30785efb000a1306bc
 #EXTINF:-1 tvg-name="TH Türk Haber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4b99d5a-c302-4524-aad7-e490def3bf0d.png" group-title="TR:Haber",TH Türk Haber
 https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEyOjQ3OjM3IEFNJmhhc2hfdmFsdWU9aThZVG5UdkY0RW9vM1ZKZmk1bnVMdz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
 #EXTINF:-1 tvg-name="Tvnet" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" group-title="TR:Haber",Tvnet
