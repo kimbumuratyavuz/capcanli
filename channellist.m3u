@@ -45,7 +45,7 @@ https://live-cdn-65984.varplaycdn.cfd/halktv/index.m3u8
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-name="24 Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png" group-title="TR:Haber",24 Tv
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-EXTINF:-1 tvg-name="Akit Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" group-title="TR:Haber",Akit Tv
+EXTINF:-1 tvg-name="Akit TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" group-title="TR:Haber",Akit Tv
 https://akittv-live.ercdn.net/akittv/akittv_480p.m3u8?hash=5289e42277ba7b30785efb000a1306bc
 #EXTINF:-1 tvg-name="TRT SPOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png" group-title="TR:Spor",TRT SPOR HD
 https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
