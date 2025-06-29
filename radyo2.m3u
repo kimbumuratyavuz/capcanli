@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1 group-title="Genel",23 FM 88.8
+http://radyofm23.canliyayinda.com:8280/
+#EXTINF:-1 group-title="Genel",90.7 Radyo 81
+http://yayin.turkhosted.com:3030/stream
+#EXTINF:-1 group-title="Genel",Abuzer FM
+http://live.radyotvonline.com:9030/
+#EXTINF:-1 group-title="Genel",Acik Radyo 94.9 FM
+http://stream.34bit.net/ar.mp3
+#EXTINF:-1 group-title="Genel",AÇS Radyo
+http://ip169.ozelip.com:10838/stream
+#EXTINF:-1 group-title="Genel",AFN 360 - Incirlik
+http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC
+#EXTINF:-1 group-title="Genel",Akdeniz FM Mersin 90.8
+http://95.173.162.186:9778/
+#EXTINF:-1 group-title="Genel",Alem FM 89.2
+http://46.20.3.246/stream/104/
+#EXTINF:-1 group-title="Genel",ALTERNATiF Radyo
+http://alternatifradyo.radyotvyayini.com:9150
+#EXTINF:-1 group-title="Genel",Ankara Universitesi Radyosu
+http://radyo.cc.ankara.edu.tr:8089/
+#EXTINF:-1 group-title="Genel",Arabeskland
+http://46.20.3.246/stream/54/
+#EXTINF:-1 group-title="Genel",Arkadas Radyo 104.1 FM
+http://yayin.yayindakiler.com:4134/
+#EXTINF:-1 group-title="Genel",Ask FM 102.1
+http://yayin.asymedya.com:8020/
+#EXTINF:-1 group-title="Genel",Avrasya Turk 107.1 FM
+http://sslyayin.netyayin.net:10909
+#EXTINF:-1 group-title="Genel",Baba Radyo 105.6 FM
+http://37.247.98.7:80/
+#EXTINF:-1 group-title="Genel",BabyJoy
+http://playerservices.streamtheworld.com/api/livestream-redirect/BABYJOY_SC
+#EXTINF:-1 group-title="Genel",Best FM
+http://46.20.7.126/
+#EXTINF:-1 group-title="Genel",Bilecik FM 99.9
+http://bilecikfm.kesintisizyayin.com:9980/
+#EXTINF:-1 group-title="Genel",Bizim Radyo 104.4 FM
+http://95.173.188.166:9986/
+#EXTINF:-1 group-title="Genel",Borusan Klasika
+http://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIKAAC_SC
+#EXTINF:-1 group-title="Genel",Can Radyo 93.3 FM
+http://yayin1.yayindakiler.com:3124/
+#EXTINF:-1 group-title="Genel",Cemre FM
+http://yayin2.canliyayin.org:8024/
+#EXTINF:-1 group-title="Genel",dinamo.fm CAFFE
+http://channels.dinamo.fm/caffe-mp3
+#EXTINF:-1 group-title="Genel",dinamo.fm DEEP
+http://channels.dinamo.fm:80/deep-mp3
+#EXTINF:-1 group-title="Genel",dinamo.fm DISCOTHEQUE
+http://channels.dinamo.fm/discotheque-mp3
+#EXTINF:-1 group-title="Genel",dinamo.fm Legacy
+http://channels.dinamo.fm/legacy-mp3
+#EXTINF:-1 group-title="Genel",dinamo.fm LOCODYNO
+http://channels.dinamo.fm/locodyno-mp3
+#EXTINF:-1 group-title="Genel",dinamo.fm SLEEP
+http://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1 group-title="Genel",dinamo.fm SMOG
+http://channels.dinamo.fm/smog-mp3
+#EXTINF:-1 group-title="Genel",Dogan21 FM 103.0
+http://yayin1.yayindakiler.com:3024
+#EXTINF:-1 group-title="Genel",Dolunay FM 108.0
+http://yayin1.canliyayin.org:8318/
+#EXTINF:-1 group-title="Genel",Dost FM 101.8
+http://yayin.dostfm.com:8920/
+#EXTINF:-1 group-title="Genel",Dost FM 89.2
+http://yayin.dostfm.com:8920/
+#EXTINF:-1 group-title="Genel",Dost Radyo
+http://yayin1.yayindakiler.com:3156/
+#EXTINF:-1 group-title="Genel",EFKAR
+http://playerservices.streamtheworld.com/api/livestream-redirect/SC008_SO1AAC_SC
+#EXTINF:-1 group-title="Genel",Eskisehirradyoses 98.9 FM
+http://live2.radyotvonline.com:8095/
+#EXTINF:-1 group-title="Genel",Greekland
+http://46.20.3.246/stream/55/
+#EXTINF:-1 group-title="Genel",HayalFm
+http://yayin.radyohayalfm.net:8050/
+#EXTINF:-1 group-title="Genel",Hayatmix Pop
+http://hayatmix.net/
+#EXTINF:-1 group-title="Genel",Hedef Radyo 91.8 FM
+http://wowza.radyogrup.com:4010/stream
+#EXTINF:-1 group-title="Genel",Jazzland
+http://46.20.3.246/stream/56/
+#EXTINF:-1 group-title="Genel",Joy FM 100.6
+http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM_SC
+#EXTINF:-1 group-title="Genel",Joy Jazz
+http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ_SC
+#EXTINF:-1 group-title="Genel",Joy Turk Akustik
+http://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1AAC_SC
+#EXTINF:-1 group-title="Genel",Joy Turk FM 89.0
+http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC
+#EXTINF:-1 group-title="Genel",JoyTurkRock
+http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC
+#EXTINF:-1 group-title="Genel",Kafa Radyo
+http://moondigitalmaster.radyotvonline.net/kafaradyo
+#EXTINF:-1 group-title="Genel",Kastamonu Radyo 37
+http://yayin1.yayindakiler.com:3192/
+#EXTINF:-1 group-title="Genel",Kay Radyo 94.2 FM
+http://yayin1.yayindakiler.com:3054/
+#EXTINF:-1 group-title="Genel",Kayseri Radio Life
+http://yayin2.canliyayin.org:8698
+#EXTINF:-1 group-title="Genel",Keskin FM 102.1
+http://yayin1.canliyayin.org:8286/
+#EXTINF:-1 group-title="Genel",Kral FM
+http://kralwmp.radyotvonline.com:80/
+#EXTINF:-1 group-title="Genel",Kral POP
+http://46.20.3.202
+#EXTINF:-1 group-title="Genel",Kral Turk Radyo 98.0 FM
+http://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 group-title="Genel",Lalegul FM 88.4
+http://icecast.netmedya.net/lalegulfm
+#EXTINF:-1 group-title="Genel",Lig Radyo 92.3 FM
+http://scturkmedya.radyotvonline.com/stream/81/
+#EXTINF:-1 group-title="Genel",Lounge FM 96.0
+http://37.1.145.21:9003/
+#EXTINF:-1 group-title="Genel",Radyo Flash 106 FM
+http://sslyayin.netyayin.net/2384/stream
+#EXTINF:-1 group-title="Genel",Radyo Fresh FM
+http://canli.radyofresh.com:8000/radyofresh.mp3
+#EXTINF:-1 group-title="Genel",Radyo Genc FM
+http://yayin.turkhosted.com:6030/
+#EXTINF:-1 group-title="Genel",Radyo Gul
+http://yayin2.canliyayin.org:8866/
+#EXTINF:-1 group-title="Genel",Radyo Guney 99.2 FM
+http://sunucu2.radyolarburada.com:8250/
+#EXTINF:-1 group-title="Genel",Radyo Home - 90 Lar
+http://37.247.98.8:80/stream/166/
+#EXTINF:-1 group-title="Genel",Radyo Home - Altin Sarkilar
+http://37.247.98.8:80/stream/25/
+#EXTINF:-1 group-title="Genel",Radyo Home - Ankara Havalari
+http://37.247.98.8:80/stream/30/
+#EXTINF:-1 group-title="Genel",Radyo Home - Arabic Home
+http://37.247.98.8:80/stream/398/
+#EXTINF:-1 group-title="Genel",Radyo Home - Efsane 4 lu
+http://37.247.98.8:80/stream/19/
+#EXTINF:-1 group-title="Genel",Radyo Home - Ege Havalari
+http://37.247.98.8:80/stream/29/
+#EXTINF:-1 group-title="Genel",Radyo Home - Klasik Home
+http://37.247.98.8:80/stream/32/
+#EXTINF:-1 group-title="Genel",Radyo Home - Kur'an Arapça
+http://37.247.98.8:80/stream/397/
+#EXTINF:-1 group-title="Genel",Radyo Home - Kur'an Meal
+http://37.247.98.8:80/stream/33/
+#EXTINF:-1 group-title="Genel",Radyo Home - Maziden Bir Demet
+http://37.247.98.8:80/stream/24/
+#EXTINF:-1 group-title="Genel",Radyo Home - Melankolik
+http://37.247.98.8:80/stream/20/
+#EXTINF:-1 group-title="Genel",Radyo Home - Pop Home
+http://37.247.98.8:80/stream/21/
+#EXTINF:-1 group-title="Genel",Radyo Home - Radyo Vokal
+http://37.247.98.8:80/stream/35/
+#EXTINF:-1 group-title="Genel",Radyo Home - Relax Home
+http://37.247.98.8:80/stream/26/
+#EXTINF:-1 group-title="Genel",Radyo Home - Slow Home
+http://37.247.98.8:80/stream/27/
+#EXTINF:-1 group-title="Genel",Radyo Home - Türkülerle Türkiyem
+http://37.247.98.8:80/stream/22/
+#EXTINF:-1 group-title="Genel",Radyo Home - Ulke Radyo
+http://37.247.98.8:80/stream/41/
+#EXTINF:-1 group-title="Genel",Radyo Home - World Hits
+http://37.247.98.8:80/stream/34/
+#EXTINF:-1 group-title="Genel",Radyo HUR
+http://radyohur.com:9059/
+#EXTINF:-1 group-title="Genel",Radyo Ki
+http://radyoki.kocaeli.edu.tr:8000/
+#EXTINF:-1 group-title="Genel",Radyo KvP
+http://radyo1.radyo-dinle.tc:7102/stream
+#EXTINF:-1 group-title="Genel",Radyo Mega 101.8 FM
+http://radyo.yayin.com.tr:4052/stream
+#EXTINF:-1 group-title="Genel",Radyo Megasite 101.1 FM
+http://mega.netradyom.com:7900/
+#EXTINF:-1 group-title="Genel",Radyo MODyAn
+http://stream.radio.co/s55d598f42/listen
+#EXTINF:-1 group-title="Genel",Radyo Mola 94.0 FM
+http://yayin1.yayindakiler.com:2018
+#EXTINF:-1 group-title="Genel",Radyo Munzur Dersim 97.7 FM
+http://yayin1.yayindakiler.com:3002/
+#EXTINF:-1 group-title="Genel",Radyo Neva
+http://radyo.nevafm.net:9928/live
+#EXTINF:-1 group-title="Genel",Radyo ODTÜ - Easy
+http://stream.radyoodtu.com.tr/easy
+#EXTINF:-1 group-title="Genel",Radyo ODTÜ - Rock
+http://stream.radyoodtu.com.tr/rock
+#EXTINF:-1 group-title="Genel",Radyo Romantik Turk 103.4 FM
+http://radyo.yayin.com.tr:6042/stream
+#EXTINF:-1 group-title="Genel",Radyo S
+http://icecast.netmedya.net/radyos
+#EXTINF:-1 group-title="Genel",Radyo Tezene
+http://46.20.3.246/stream/52/
+#EXTINF:-1 group-title="Genel",Radyo Turk 94.4 FM
+http://radyo.yayindakiler.com:4028/stream
+#EXTINF:-1 group-title="Genel",Radyo Ulku106.5 FM
+http://radyo.yayin.com.tr:4006/
+#EXTINF:-1 group-title="Genel",Radyo Yakamoz
+http://live4.radyotvonline.com:6570/
+#EXTINF:-1 group-title="Genel",RadyoSohbetFM
+http://radyo.sohbetburada.com:9998/
+#EXTINF:-1 group-title="Genel",Rahmet FM 103.5
+http://yayin.netyayin.net:1634/
+#EXTINF:-1 group-title="Genel",Retro Turk
+http://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK128AAC_SC
+#EXTINF:-1 group-title="Genel",Ribat FM 94.8
+http://yayin1.canliyayin.org:7010/
+#EXTINF:-1 group-title="Genel",Rock FM 94.5
+http://rockfm.rockfm.com.tr:9450/stream
+#EXTINF:-1 group-title="Genel",Seyr FM 102.2
+http://sslyayin.netyayin.net/8024/stream
+#EXTINF:-1 group-title="Genel",Show Radyo 89.9 FM
+http://46.20.3.228:80/
+#EXTINF:-1 group-title="Genel",Slow Karadeniz FM 96.0
+http://dinle.slowkaradenizfm.com:9578/
+#EXTINF:-1 group-title="Genel",Soylu FM
+http://yayin.yayindakiler.com:4034
+#EXTINF:-1 group-title="Genel",Super 2 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2AAC_SC
+#EXTINF:-1 group-title="Genel",Super FM 90.8
+http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
+#EXTINF:-1 group-title="Genel",Super FM 98.0
+http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FMAAC_SC
+#EXTINF:-1 group-title="Genel",TGRT 93.1 FM
+https://icecasttgrt.ihlasdigitalassets.com/tgrtfm
+#EXTINF:-1 group-title="Genel",TürkRap
+http://95.173.188.166:9984/
+#EXTINF:-1 group-title="Genel",Turku Radyo
+http://radyo.turkuradyo.net:4591/
+#EXTINF:-1 group-title="Genel",Ulku FM 100.1
+http://yayin2.yayindakiler.com:4112/
+#EXTINF:-1 group-title="Genel",Ulusal Radyo
+http://beats.layback.com.br/stream
+#EXTINF:-1 group-title="Genel",Virgin Radio Turkiye 99.4 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC
+#EXTINF:-1 group-title="Genel",Vizyon Turk 93.0
+http://yayin.netradyom.com:9300
+#EXTINF:-1 group-title="Genel",Yön Radyo 96.6 FM
+http://stream.radyolarburada.com/radio/8020/yonradyo
+#EXTINF:-1 group-title="Genel",Yön Radyo Alaturka
+http://stream.radyolarburada.com/radio/8060/yonalaturca
+#EXTINF:-1 group-title="Genel",Yön Radyo Anatolia
+http://stream.radyolarburada.com/radio/8020
+#EXTINF:-1 group-title="Genel",Yön Radyo Rock
+http://stream.radyolarburada.com/radio/8090/yonrock
+#EXTINF:-1 group-title="Genel",Yon Radyo Turku
+http://stream.radyolarburada.com/radio/8020
+#EXTINF:-1 group-title="Genel",Yön Radyo World
+http://stream.radyolarburada.com/radio/8070/yonword
+#EXTINF:-1 group-title="Genel",Yozgat Sorgun FM
+http://radyovetv.com:8001
+#EXTINF:-1 group-title="Genel",Yunus FM 94.0
+http://95.173.162.184:7350/mp3/1/
