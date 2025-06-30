@@ -11,8 +11,6 @@ http://stream.34bit.net/ar.mp3
 http://ip169.ozelip.com:10838/stream
 #EXTINF:-1 group-title="Genel",AFN 360 - Incirlik
 http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC
-#EXTINF:-1 group-title="Genel",Akdeniz FM Mersin 90.8
-http://95.173.162.186:9778/
 #EXTINF:-1 group-title="Genel",Alem FM 89.2
 http://46.20.3.246/stream/104/
 #EXTINF:-1 group-title="Genel",ALTERNATiF Radyo
@@ -95,8 +93,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC
 http://moondigitalmaster.radyotvonline.net/kafaradyo
 #EXTINF:-1 group-title="Genel",Kastamonu Radyo 37
 http://yayin1.yayindakiler.com:3192/
-#EXTINF:-1 group-title="Genel",Kay Radyo 94.2 FM
-http://yayin1.yayindakiler.com:3054/
 #EXTINF:-1 group-title="Genel",Kayseri Radio Life
 http://yayin2.canliyayin.org:8698
 #EXTINF:-1 group-title="Genel",Keskin FM 102.1
@@ -117,8 +113,6 @@ http://37.1.145.21:9003/
 http://sslyayin.netyayin.net/2384/stream
 #EXTINF:-1 group-title="Genel",Radyo Fresh FM
 http://canli.radyofresh.com:8000/radyofresh.mp3
-#EXTINF:-1 group-title="Genel",Radyo Genc FM
-http://yayin.turkhosted.com:6030/
 #EXTINF:-1 group-title="Genel",Radyo Gul
 http://yayin2.canliyayin.org:8866/
 #EXTINF:-1 group-title="Genel",Radyo Guney 99.2 FM
@@ -193,8 +187,6 @@ http://radyo.yayindakiler.com:4028/stream
 http://radyo.yayin.com.tr:4006/
 #EXTINF:-1 group-title="Genel",Radyo Yakamoz
 http://live4.radyotvonline.com:6570/
-#EXTINF:-1 group-title="Genel",RadyoSohbetFM
-http://radyo.sohbetburada.com:9998/
 #EXTINF:-1 group-title="Genel",Rahmet FM 103.5
 http://yayin.netyayin.net:1634/
 #EXTINF:-1 group-title="Genel",Retro Turk
