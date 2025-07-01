@@ -21,7 +21,7 @@ https://live-cdn-65984.varplaycdn.cfd/a2/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR:Ulusal" tvg-name="TV8 HD",TV8 HD
 https://live-cdn-65984.varplaycdn.cfd/tv8/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.bravaspor.com/site/o/105638/2022/12/14678289144e62ee6635ca9419908df6.png" group-title="TR:Ulusal",TV8 tvg-name="5 HD",5 HD
+#EXTINF:-1 tvg-logo="https://www.bravaspor.com/site/o/105638/2022/12/14678289144e62ee6635ca9419908df6.png" group-title="TR:Ulusal" tvg-name="TV8,5 HD" TV8,5 HD
 https://live-cdn-65984.varplaycdn.cfd/tv85/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Beyaz-TV.png" group-title="TR:Ulusal" tvg-name="BEYAZ TV HD",BEYAZ TV HD
 https://live-cdn-65984.varplaycdn.cfd/beyaztv/index.m3u8
