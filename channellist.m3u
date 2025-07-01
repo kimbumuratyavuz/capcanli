@@ -11,7 +11,7 @@ https://live-cdn-65984.varplaycdn.cfd/kanald/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/showtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png" group-title="TR:Ulusal" tvg-name="SHOW MAX HD",SHOW MAX HD
 https://live-cdn-65984.varplaycdn.cfd/showmax/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Star_TV_%282011_Turkey%29.svg/revision/latest/scale-to-width-down/200?cb=20220406065638" group-title="TR:Ulusal" tvg-name="STAR TV HD",STAR TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWpAGOzpaMBFbEtbNGz2eFD6bvEAy-f1J8Q&s" group-title="TR:Ulusal" tvg-name="STAR TV HD",STAR TV HD
 https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/4RlCT.png" group-title="TR:Ulusal" tvg-name="KANAL 7 HD",KANAL 7 HD
 https://live-cdn-65984.varplaycdn.cfd/kanal7/index.m3u8
