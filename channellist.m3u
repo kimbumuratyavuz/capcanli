@@ -12,7 +12,7 @@ https://live-cdn-65984.varplaycdn.cfd/showtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png" group-title="TR:Ulusal" tvg-name="SHOW MAX HD",SHOW MAX HD
 https://live-cdn-65984.varplaycdn.cfd/showmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWpAGOzpaMBFbEtbNGz2eFD6bvEAy-f1J8Q&s" group-title="TR:Ulusal" tvg-name="STAR TV HD",STAR TV HD
-https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMiBBTSZoYXNoX3ZhbHVlPWdJM1ExZ3NYc2F6RnpUeUFkM3ZjQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/4RlCT.png" group-title="TR:Ulusal" tvg-name="KANAL 7 HD",KANAL 7 HD
 https://ottcdn.kablowebtv.net/live_turksat_sub3/kanal7_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMyBBTSZoYXNoX3ZhbHVlPVpqcWtRalRpUGNBQnhrVlNMTFp3T0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 #EXTINF:-1 tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170714/001300/XTV100000291/f57866cb-de7e-4586-ae71-d44605b6c518.png" group-title="TR:Ulusal" tvg-name="A2 HD",A2 HD
