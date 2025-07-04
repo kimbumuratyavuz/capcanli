@@ -23,11 +23,11 @@ https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMiBBTSZoYXNoX3ZhbHVlPWdJM1ExZ3NYc2F6RnpUeUFkM3ZjQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 #EXTINF:-1 tvg-logo="https://www.bravaspor.com/site/o/105638/2022/12/14678289144e62ee6635ca9419908df6.png" group-title="TR:Ulusal" tvg-name="TV8buçuk HD" ,TV8buçuk 
 https://live-cdn-65984.varplaycdn.cfd/tv85/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Beyaz-TV.png" group-title="TR:Ulusal" tvg-name="BEYAZ TV HD",BEYAZ TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXuvsibxeOrrk646mhTX-fgdd79R9d2LEfA&s" group-title="TR:Ulusal" tvg-name="BEYAZ TV HD",BEYAZ TV HD
 https://ottcdn.kablowebtv.net/live_turksat_sub3/beyaztv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMiBBTSZoYXNoX3ZhbHVlPWdJM1ExZ3NYc2F6RnpUeUFkM3ZjQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR:Ulusal" tvg-name="360 HD",360 HD
 https://live-cdn-65984.varplaycdn.cfd/360/index.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="TR:Ulusal" tvg-name="TLC HD",TLC HD
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="TR:Ulusal" tvg-name="TLC HD",TLC HD
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI1IDEyOjU0OjU5IEFNJmhhc2hfdmFsdWU9OVE0d3VmZ2gxTUl0ZVRxVDNHaHdhQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/2560px-Haber_Global_logo.svg.png" group-title="TR:Haber" tvg-name="HABER GLOBAL HD",HABER GLOBAL HD
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
@@ -41,9 +41,9 @@ https://live-cdn-65984.varplaycdn.cfd/cnnturk/index.m3u8
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ahaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMiBBTSZoYXNoX3ZhbHVlPWdJM1ExZ3NYc2F6RnpUeUFkM3ZjQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR:Haber" tvg-name="SÖZCÜ TV HD",SÖZCÜ TV HD
 https://live-cdn-65984.varplaycdn.cfd/sozcu/index.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png" group-title="TR:Haber" tvg-name="Bloomberg Ht",Bloomberg Ht
+#EXTINF:-1 tvg-id="Bloomberg.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSidlDOkyJmlZ7kNXXYLHJGW-y3qc-h-JjvlPwl021qlGDpTvdkfREwICAXdX1-ze8IBlA&usqp=CAU" group-title="TR:Haber" tvg-name="Bloomberg Ht",Bloomberg Ht
 https://ottcdn.kablowebtv.net/live_turksat_sub3/bloomberg_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMyBBTSZoYXNoX3ZhbHVlPVpqcWtRalRpUGNBQnhrVlNMTFp3T0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
-#EXTINF:-1 tvg-id="24 HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png" group-title="TR:Haber" tvg-name="24 Tv",24 Tv
+#EXTINF:-1 tvg-id="24 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TR:Haber" tvg-name="24 Tv",24 Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/24tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMiBBTSZoYXNoX3ZhbHVlPWdJM1ExZ3NYc2F6RnpUeUFkM3ZjQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR:Haber" tvg-name="TRT HABER HD",TRT HABER HD
 https://live-cdn-65984.varplaycdn.cfd/trthaber/index.m3u8
@@ -63,17 +63,17 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/tele1_stream/index.m3u8?wmsAuthS
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://gbzottvsc05.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/42/2119213578445eb78424_op_0_XL.webp" group-title="TR:Haber" tvg-name="EKOL TV HD",EKOL TV HD
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-id="TVNET HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" group-title="TR:Haber" tvg-name="Tvnet",Tvnet
+#EXTINF:-1 tvg-id="TVNET HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tvnet_logo_%282022%29.svg/250px-Tvnet_logo_%282022%29.svg.png" group-title="TR:Haber" tvg-name="Tvnet",Tvnet
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tvnet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMiBBTSZoYXNoX3ZhbHVlPWdJM1ExZ3NYc2F6RnpUeUFkM3ZjQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
-#EXTINF:-1 tvg-id="AKİT TV HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" group-title="TR:Haber" tvg-name="Akit Tv",Akit Tv
+#EXTINF:-1 tvg-id="AKİT TV HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBBKgadbs4MuZNI1epn0ePy7eHT0psPSLlQ&s" group-title="TR:Haber" tvg-name="Akit Tv",Akit Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/akittv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMiBBTSZoYXNoX3ZhbHVlPWdJM1ExZ3NYc2F6RnpUeUFkM3ZjQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
-#EXTINF:-1 tvg-id="AS TV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bb23721e-664b-48c6-a9f4-5e55f890f026.png" group-title="TR:Haber" tvg-name="As Tv",As Tv
+#EXTINF:-1 tvg-id="AS TV.tr" tvg-logo="https://yt3.googleusercontent.com/QQSqtcT005BkGaU4FYmtH9m_Ypm-3LzEbQu8lJfh4Q1ks0F1puhfo1s-fRjDLcSQjitoPfk7AQ=s900-c-k-c0x00ffffff-no-rj" group-title="TR:Haber" tvg-name="As Tv",As Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/astv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjUgMzo0MzoyMyBBTSZoYXNoX3ZhbHVlPVpqcWtRalRpUGNBQnhrVlNMTFp3T0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
-#EXTINF:-1 tvg-id="BRT 1 HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" group-title="TR:Haber" tvg-name="Brt 1",Brt 1
+#EXTINF:-1 tvg-id="BRT 1 HD.tr" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/45/2e/dc452ec7-3f9a-a723-6759-5a093ace88a3/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="TR:Haber" tvg-name="Brt 1",Brt 1
 https://ottcdn.kablowebtv.net/live_turksat_sub3/brt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI1IDEyOjU0OjU5IEFNJmhhc2hfdmFsdWU9OVE0d3VmZ2gxTUl0ZVRxVDNHaHdhQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
-#EXTINF:-1 tvg-id="KRT TV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" group-title="TR:Haber" tvg-name="Krt Tv",Krt Tv
+#EXTINF:-1 tvg-id="KRT TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp" group-title="TR:Haber" tvg-name="Krt Tv",Krt Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI1IDEyOjU0OjU5IEFNJmhhc2hfdmFsdWU9OVE0d3VmZ2gxTUl0ZVRxVDNHaHdhQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
-#EXTINF:-1 tvg-id="TURKHABER.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4b99d5a-c302-4524-aad7-e490def3bf0d.png" group-title="TR:Haber" tvg-name="TH Türk Haber",TH Türk Haber
+#EXTINF:-1 tvg-id="TURKHABER.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAhY7gJdKwAzLqoT-mZ3nCf5_hoqW_-gciw&s" group-title="TR:Haber" tvg-name="TH Türk Haber",TH Türk Haber
 https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI1IDEyOjU0OjU5IEFNJmhhc2hfdmFsdWU9OVE0d3VmZ2gxTUl0ZVRxVDNHaHdhQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png" group-title="TR:Spor" tvg-name="TRT SPOR HD",TRT SPOR HD
 https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
@@ -83,31 +83,31 @@ https://live-cdn-65984.varplaycdn.cfd/trtspor2/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://izmottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="TR:Spor" tvg-name="HT SPOR HD",HT SPOR HD
 https://live-cdn-65984.varplaycdn.cfd/htspor/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png" group-title="TR:Spor" tvg-name="BeIN Sports Haber HD",BeIN Sports Haber HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="TR:Spor" tvg-name="BeIN Sports Haber HD",BeIN Sports Haber HD
 https://live-cdn-65984.varplaycdn.cfd/beinsportshaber/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="TR:Spor" tvg-name="S Sport HD",S Sport HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="TR:Spor" tvg-name="S Sport HD",S Sport HD
 https://live-cdn-65984.varplaycdn.cfd/607/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="TR:Spor" tvg-name="S Sport 2 HD",S Sport 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/S_Sport_2_logo.jpg" group-title="TR:Spor" tvg-name="S Sport 2 HD",S Sport 2 HD
 https://live-cdn-65984.varplaycdn.cfd/608/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="TR:Spor" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5D1r0kH83zFWHfZK6sDFl8349iqMCGN3X1A&s" group-title="TR:Spor" tvg-name="Eurosport 1 HD",Eurosport 1 HD
 https://live-cdn-65984.varplaycdn.cfd/eurosport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="TR:Spor" tvg-name="Eurosport 2 HD",Eurosport 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwq5QRs9vG59_dYbQAk4VrXsJxT2MCps19MA&s" group-title="TR:Spor" tvg-name="Eurosport 2 HD",Eurosport 2 HD
 https://live-cdn-65984.varplaycdn.cfd/eurosport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="TR:Spor" tvg-name="NBA HD",NBA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="TR:Spor" tvg-name="NBA HD",NBA HD
 https://live-cdn-65984.varplaycdn.cfd/nbatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="TR:Spor" tvg-name="BeIN Sports 1 HD",BeIN Sports 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT00eFuBy6rRd2ihIOWdP97mV0NXDc1KfAJg&s" group-title="TR:Spor" tvg-name="BeIN Sports 1 HD",BeIN Sports 1 HD
 https://live-cdn-65984.varplaycdn.cfd/601/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_170_122" group-title="TR:Spor" tvg-name="BeIN Sports 2 HD",BeIN Sports 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpE0yhvQmIUBXNPXEt4wveH3GG0eBxOsihvA&s" group-title="TR:Spor" tvg-name="BeIN Sports 2 HD",BeIN Sports 2 HD
 https://live-cdn-65984.varplaycdn.cfd/602/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="TR:Spor" tvg-name="BeIN Sports 3 HD",BeIN Sports 3 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMrmwSwfwlw5TtA8ivJPatGQhl6L5gnzUiA&s" group-title="TR:Spor" tvg-name="BeIN Sports 3 HD",BeIN Sports 3 HD
 https://live-cdn-65984.varplaycdn.cfd/603/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_425_305" group-title="TR:Spor" tvg-name="BeIN Sports 4 HD",BeIN Sports 4 HD
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="TR:Spor" tvg-name="BeIN Sports 4 HD",BeIN Sports 4 HD
 https://live-cdn-65984.varplaycdn.cfd/604/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="TR:Spor" tvg-name="BeIN Sports 5 HD",BeIN Sports 5 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQFeNVDh8-PJHWL3BaC-qM6f9pczlHXJCFQ&s" group-title="TR:Spor" tvg-name="BeIN Sports 5 HD",BeIN Sports 5 HD
 https://live-cdn-65984.varplaycdn.cfd/605/index.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/CvdMRXjTi.png" group-title="TR:Spor" tvg-name="BeIN Sports Max 1 HD",BeIN Sports Max 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0-1-AmvAxraJnChpV53K38jivcmXOH0sUA&s" group-title="TR:Spor" tvg-name="BeIN Sports Max 1 HD",BeIN Sports Max 1 HD
 https://live-cdn-65984.varplaycdn.cfd/801/index.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/h5LrmICka3SH.png" group-title="TR:Spor" tvg-name="BeIN Sports Max 2 HD",BeIN Sports Max 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWJKGuv4KF5-CyiaQIqu6X6RdBDNU23850A&s" group-title="TR:Spor" tvg-name="BeIN Sports Max 2 HD",BeIN Sports Max 2 HD
 https://live-cdn-65984.varplaycdn.cfd/802/index.m3u8
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20221230862759.png" group-title="TR:Spor" tvg-name="TİVİBU SPOR HD",TİVİBU SPOR HD
 https://live-cdn-65984.varplaycdn.cfd/700/index.m3u8
@@ -139,17 +139,17 @@ https://live-cdn-65984.varplaycdn.cfd/609/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/610/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo.png" group-title="ENG:Yabancı Spor" tvg-name="ESPN HD",ESPN HD
 https://live-cdn-65984.varplaycdn.cfd/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest?cb=20130819193813" group-title="ENG:Yabancı Spor" tvg-name="ESPN 2 HD",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69rxrNr34WPgUCu3mgqbON43LbJ8BpehwPQ&s" group-title="ENG:Yabancı Spor" tvg-name="ESPN 2 HD",ESPN 2 HD
 https://live-cdn-65984.varplaycdn.cfd/espn2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ENG:Yabancı Spor" tvg-name="TNT HD",TNT HD
 https://live-cdn-65984.varplaycdn.cfd/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410" group-title="ENG:Yabancı Spor" tvg-name="SKY SPORTS F1 HD",SKY SPORTS F1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/2560px-Sky_Sports_F1_logo_2020.svg.png" group-title="ENG:Yabancı Spor" tvg-name="SKY SPORTS F1 HD",SKY SPORTS F1 HD
 https://live-cdn-65984.varplaycdn.cfd/f1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR:Belgesel" tvg-name="TRT BELGESEL HD",TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="TR:Belgesel" tvg-name="NATİONAL GEOGRAPHİC HD",NATİONAL GEOGRAPHİC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="TR:Belgesel" tvg-name="NATİONAL GEOGRAPHİC HD",NATİONAL GEOGRAPHİC HD
 https://live-cdn-65984.varplaycdn.cfd/natgeo/index.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" group-title="TR:Belgesel" tvg-name="NATİONAL GEOGRAPHİC WİLD HD",NATİONAL GEOGRAPHİC WİLD HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBoAr8OzWfNh-DCwzhMHQFMM1Hrs0Fexjzg&s" group-title="TR:Belgesel" tvg-name="NATİONAL GEOGRAPHİC WİLD HD",NATİONAL GEOGRAPHİC WİLD HD
 https://live-cdn-65984.varplaycdn.cfd/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" group-title="TR:Belgesel" tvg-name="LOVE NATURE HD",LOVE NATURE HD
 https://live-cdn-65984.varplaycdn.cfd/lovenature/index.m3u8
@@ -167,11 +167,11 @@ https://live-cdn-65984.varplaycdn.cfd/tarihtv/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/yaban/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png" group-title="TR:Belgesel" tvg-name="BBC EARTH HD",BBC EARTH HD
 https://live-cdn-65984.varplaycdn.cfd/bbcearth/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-483306.png" group-title="TR:Dizi/Sinema" tvg-name="TABİİ TV HD",TABİİ TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWv-0I9QE9pon0D1f968gGBKAzTmBU-z7CsA&s" group-title="TR:Dizi/Sinema" tvg-name="TABİİ TV HD",TABİİ TV HD
 https://live-cdn-65984.varplaycdn.cfd/tabiitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png" group-title="TR:Dizi/Sinema" tvg-name="SUPERTURK HD",SUPERTURK HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziRZy6-w-bC3Vc1L7lSnjQaQjuJ8XDDth1A&s" group-title="TR:Dizi/Sinema" tvg-name="SUPERTURK HD",SUPERTURK HD
 https://live-cdn-65984.varplaycdn.cfd/superturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png" group-title="TR:Dizi/Sinema" tvg-name="SUPERTURK MAX HD",SUPERTURK MAX HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziRZy6-w-bC3Vc1L7lSnjQaQjuJ8XDDth1A&s" group-title="TR:Dizi/Sinema" tvg-name="SUPERTURK MAX HD",SUPERTURK MAX HD
 https://live-cdn-65984.varplaycdn.cfd/superturkmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Q8ePW.png" group-title="TR:Dizi/Sinema" tvg-name="CİNE 6 HD",CİNE 6 HD
 https://live-cdn-65984.varplaycdn.cfd/cine6/index.m3u8
