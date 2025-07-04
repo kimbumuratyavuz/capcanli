@@ -159,8 +159,6 @@ https://live-cdn-65984.varplaycdn.cfd/iz/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/gurme/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tv-channel_%E2%94%82_history.png" group-title="TR:Belgesel" tvg-name="HİSTORY HD",HİSTORY HD
 https://live-cdn-65984.varplaycdn.cfd/history/index.m3u8
-#EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d39dd182-c195-4025-976d-10af0b08335e.png" group-title="TR:Belgesel" tvg-name="Viasat Explore",Viasat Explore
-https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI1IDEyOjU0OjU5IEFNJmhhc2hfdmFsdWU9OVE0d3VmZ2gxTUl0ZVRxVDNHaHdhQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMg==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarih-tv-logo-siyah-1080x1080.png" group-title="TR:Belgesel" tvg-name="TARİH TV HD",TARİH TV HD
 https://live-cdn-65984.varplaycdn.cfd/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="TR:Belgesel" tvg-name="YABAN TV HD",YABAN TV HD
