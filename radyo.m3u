@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-atSLBDwDRvM/WZvt7gcYrzI/AAAAAAAATuA/2nbrjNajwJoGapc_PuuM6X50ElJq4_Z-gCLcBGAs/s1600/90.jpg" group-title="RADYO 01",90'LAR
-http://37.247.98.8/stream/166/
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-juODCXGvgPI/WZwLihjks4I/AAAAAAAATvw/inx1PhLcazcfUitAtjYSljX5_NNUWELfACLcBGAs/s1600/05.jpg" group-title="RADYO 01",AFYON GÜN FM
 http://ssl120.radyotelekom.com.tr/8130/stream
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9IyicWL5ZRU/WZwOlsUj3nI/AAAAAAAATwM/T_o5F4OdyEs3N3cMLKl9WJtnHT-6IvdnwCLcBGAs/s1600/08.jpg" group-title="RADYO 01",AKSARAY KRAL FM
