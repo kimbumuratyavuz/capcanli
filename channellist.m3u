@@ -1,86 +1,351 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Trt Spor HD" tvg-logo="https://trt.daioncdn.net/trtspor/master.m3u8?app=web&" group-title="Ulusal",Trt Spor HD
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web&
-#EXTINF:-1 tvg-name="A Spor HD" tvg-logo="https://tv.prectv53.lol/live/aspor.m3u8" group-title="Ulusal",A Spor HD
-https://tv.prectv53.lol/live/aspor.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://trt.daioncdn.net/trt-1/master.m3u8?app=web&" group-title="Ulusal",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web&
-#EXTINF:-1 tvg-name="STAR TV" tvg-logo="https://dogus-live.daioncdn.net/startv/startv.m3u8" group-title="Ulusal",STAR TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://demiroren-live.daioncdn.net/kanald/kanald.m3u8" group-title="Ulusal",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-name="SHOW TV" tvg-logo="https://ciner-live.daioncdn.net/showtv/showtv.m3u8" group-title="Ulusal",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://tv.prectv53.lol/live/atv.m3u8" group-title="Ulusal",ATV
-https://tv.prectv53.lol/live/atv.m3u8
-#EXTINF:-1 tvg-name="TV 8 HD" tvg-logo="https://tv8-live.daioncdn.net/tv8/tv8.m3u8" group-title="Ulusal",TV 8 HD
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-logo="https://tv.prectv53.lol/live/tv85.m3u8" group-title="Ulusal",TV 8.5
-https://tv.prectv53.lol/live/tv85.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8" group-title="Ulusal",FOX TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8" group-title="Ulusal",KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="BEYAZ TV" tvg-logo="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8" group-title="Ulusal",BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-name="TEVE 2 HD" tvg-logo="https://demiroren-live.daioncdn.net/teve2/teve2.m3u8" group-title="Ulusal",TEVE 2 HD
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-name="TRT HABER HD" tvg-logo="https://tv-trthaber.medya.trt.com.tr/master_720.m3u8" group-title="Ulusal",TRT HABER HD
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="HABER TURK HD" tvg-logo="https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8" group-title="Ulusal",HABER TURK HD
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-name="A HABER HD" tvg-logo="https://tv.prectv53.lol/live/ahaber.m3u8" group-title="Ulusal",A HABER HD
-https://tv.prectv53.lol/live/ahaber.m3u8
-#EXTINF:-1 tvg-name="CNN TURK HD" tvg-logo="https://tv.prectv53.lol/live/cnnturk.m3u8" group-title="Ulusal",CNN TURK HD
-https://tv.prectv53.lol/live/cnnturk.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-logo="https://dogus-live.daioncdn.net/ntv/ntv.m3u8" group-title="Ulusal",NTV HD
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-name="24 HABER HD" tvg-logo="https://tv.ensonhaber.com/tv24/tv24.m3u8" group-title="Ulusal",24 HABER HD
-https://tv.ensonhaber.com/tv24/tv24.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG HT HD" tvg-logo="https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8" group-title="Ulusal",BLOOMBERG HT HD
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-name="HALK TV" tvg-logo="https://halktv-live.daioncdn.net/halktv/halktv.m3u8" group-title="Ulusal",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-logo="https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8" group-title="Ulusal",HABER GLOBAL
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-logo="https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8" group-title="Ulusal",TGRT HABER HD
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1 tvg-name="NATIONAL GEO HD" tvg-logo="https://saran-live.ercdn.net/natgeohd/index.m3u8" group-title="Ulusal",NATIONAL GEO HD
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-name="NATIONAL GEO WILD" tvg-logo="https://saran-live.ercdn.net/natgeowild/index.m3u8" group-title="Ulusal",NATIONAL GEO WILD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://tv.prectv53.lol/live/history.m3u8" group-title="Ulusal",HISTORY CHANNEL
-https://tv.prectv53.lol/live/history.m3u8
-#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://tv.prectv53.lol/live/bbc.m3u8" group-title="Ulusal",BBC EARTH HD
-https://tv.prectv53.lol/live/bbc.m3u8
-#EXTINF:-1 tvg-name="TARİH TV" tvg-logo="https://tv.prectv53.lol/live/tarihtv.m3u8" group-title="Ulusal",TARİH TV
-https://tv.prectv53.lol/live/tarihtv.m3u8
-#EXTINF:-1 tvg-name="Docubox" tvg-logo="https://tv.prectv53.lol/live/docubox.m3u8" group-title="Ulusal",Docubox
-https://tv.prectv53.lol/live/docubox.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://dogus-live.daioncdn.net/tlc/tlc.m3u8" group-title="Ulusal",TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-name="EKOL TV" tvg-logo="https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8" group-title="Ulusal",EKOL TV
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-#EXTINF:-1 tvg-name="DMAX HD" tvg-logo="https://dogus-live.daioncdn.net/dmax/dmax.m3u8" group-title="Ulusal",DMAX HD
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1 tvg-name="YABAN TV" tvg-logo="https://tv.prectv53.lol/live/yaban.m3u8" group-title="Ulusal",YABAN TV
-https://tv.prectv53.lol/live/yaban.m3u8
-https://tv.prectv53.lol/live/discs.m3u8h
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-logo="https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8" group-title="Ulusal",TRT BELGESEL HD
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="BENGÜTÜRK" tvg-logo="https://tv.ensonhaber.com/benguturk/benguturk.m3u8" group-title="Ulusal",BENGÜTÜRK
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-name="TV 100" tvg-logo="https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8" group-title="Ulusal",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT 2" tvg-logo="https://tv-trt2.medya.trt.com.tr/master.m3u8" group-title="Ulusal",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TV4" tvg-logo="http://65.108.239.207:8080/stream/tvplus/tv4hd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&" group-title="Ulusal",TV4
-http://65.108.239.207:8080/stream/tvplus/tv4hd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&
-#EXTINF:-1 tvg-name="TRT TÜRK" tvg-logo="https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8" group-title="Ulusal",TRT TÜRK
-https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ" tvg-logo="https://tv-trtavaz.medya.trt.com.tr/master.m3u8" group-title="Ulusal",TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="SEMERKAND TV" tvg-logo="http://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&" group-title="Ulusal",SEMERKAND TV
-http://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor" group-title="Ulusal",TRT SPOR YILDIZ
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/atv-canli-hd-yayin-1.png" group-title="Ulusal",ATV
+https://canlitvme.ismailturret.workers.dev/atv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt1-canli-kesintisiz.png" group-title="Ulusal",TRT 1
+https://canlitvme.ismailturret.workers.dev/trt1.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv8-canli-yayin-izle.png" group-title="Ulusal",Tv8 
+https://canlitvme.ismailturret.workers.dev/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/now-tv-canli.png" group-title="Ulusal",Now TV
+https://canlitvme.ismailturret.workers.dev/foxtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-d-canli-1.png" group-title="Ulusal",Kanal D
+https://canlitvme.ismailturret.workers.dev/kanald.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/star-tv-canli-hd-izle.png" group-title="Ulusal",Star Tv
+https://canlitvme.ismailturret.workers.dev/startv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/show-tv-canli-yayin-hd.png" group-title="Ulusal",Show Tv
+https://canlitvme.ismailturret.workers.dev/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-7.png" group-title="Ulusal",Kanal 7
+https://canlitvme.ismailturret.workers.dev/kanal7.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/beyaz-tv.png" group-title="Ulusal",Beyaz Tv
+https://canlitvme.ismailturret.workers.dev/beyaztv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/saban-tv.png" group-title="Ulusal",Şaban Tv
+https://canlitvme.ismailturret.workers.dev/sabantv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/teve2-canli-izle.png" group-title="Ulusal",Teve2
+https://canlitvme.ismailturret.workers.dev/teve2.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv8-5.png" group-title="Ulusal",TV8.5
+https://canlitvme.ismailturret.workers.dev/tv85.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv8-int.png" group-title="Ulusal",Tv8 İnt
+https://canlitvme.ismailturret.workers.dev/tv8int.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/a2-tv-canli-seyret.png" group-title="Ulusal",A2 Tv
+https://canlitvme.ismailturret.workers.dev/a2tv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/eurostar-canli.png" group-title="Ulusal",Euro Star
+https://canlitvme.ismailturret.workers.dev/eurostar.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/d-max.png" group-title="Ulusal",D Max
+https://canlitvme.ismailturret.workers.dev/dmax.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/euro-d.png" group-title="Ulusal",Euro D
+https://canlitvme.ismailturret.workers.dev/eurod.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/atv-avrupa.png" group-title="Ulusal",ATV Avrupa
+https://canlitvme.ismailturret.workers.dev/atvavrupa.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tgrt-eu.png" group-title="Ulusal",TGRT EU
+https://canlitvme.ismailturret.workers.dev/tgrteu.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tlc-tv.png" group-title="Ulusal",TLC Tv
+https://canlitvme.ismailturret.workers.dev/tlctv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/show-turk.png" group-title="Ulusal",Show Türk
+https://canlitvme.ismailturret.workers.dev/showturk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-kurdi.png" group-title="Ulusal",TRT Kürdi
+https://canlitvme.ismailturret.workers.dev/trtkurdi.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-b.png" group-title="Ulusal",Kanal B
+https://canlitvme.ismailturret.workers.dev/kanalb.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-turk.png" group-title="Ulusal",TRT Türk
+https://canlitvme.ismailturret.workers.dev/trtturk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-avaz.png" group-title="Ulusal",TRT Avaz
+https://canlitvme.ismailturret.workers.dev/trtavaz.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/show-max.png" group-title="Ulusal",Show Max
+https://canlitvme.ismailturret.workers.dev/showmax.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-2.png" group-title="Ulusal",TRT 2
+https://canlitvme.ismailturret.workers.dev/trt2.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-7-avrupa.png" group-title="Ulusal",Kanal 7 Avrupa
+https://canlitvme.ismailturret.workers.dev/kanal7avrupa.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-avrupa.png" group-title="Ulusal",Kanal Avrupa
+https://canlitvme.ismailturret.workers.dev/kanalavrupa.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/cine1-canli.png" group-title="Ulusal",Cine1
+https://canlitvme.ismailturret.workers.dev/cine1.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-haber.png" group-title="Haber",TRT Haber
+https://canlitvme.ismailturret.workers.dev/trthaber.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/sozcu-tv-canli.png" group-title="Haber",Sözcü Tv
+https://canlitvme.ismailturret.workers.dev/sozcutv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/halk-tv.png" group-title="Haber",Halk Tv
+https://canlitvme.ismailturret.workers.dev/halktv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/flash-tv.png" group-title="Haber",Flash Haber
+https://canlitvme.ismailturret.workers.dev/flashhaber.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/a-haber-izle-13.png" group-title="Haber",A Haber
+https://canlitvme.ismailturret.workers.dev/ahaber.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/haberturk-canli-hd.png" group-title="Haber",Habertürk Tv
+https://canlitvme.ismailturret.workers.dev/haberturk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/haber-global.png" group-title="Haber",Haber Global
+https://canlitvme.ismailturret.workers.dev/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ntv-canli-yayin.png" group-title="Haber",NTV
+https://canlitvme.ismailturret.workers.dev/ntv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/cnn-turk-canli-yayin.png" group-title="Haber",CNN Türk
+https://canlitvme.ismailturret.workers.dev/cnnturk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tele1.png" group-title="Haber",Tele1
+https://canlitvme.ismailturret.workers.dev/tele1.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal24.png" group-title="Haber",Kanal 24
+https://canlitvme.ismailturret.workers.dev/kanal24.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tgrt-haber.png" group-title="Haber",TGRT Haber
+https://canlitvme.ismailturret.workers.dev/tgrthaber.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv100.png" group-title="Haber",TV100
+https://canlitvme.ismailturret.workers.dev/tv100.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ulusal-kanal.png" group-title="Haber",Ulusal Kanal
+https://canlitvme.ismailturret.workers.dev/ulusalkanal.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/bloomberght.png" group-title="Haber",Bloomberg HT
+https://canlitvme.ismailturret.workers.dev/bloomberghthdlive.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ekoturk-tv.png" group-title="Haber",EkoTürk Tv
+https://canlitvme.ismailturret.workers.dev/ekoturktv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/krt-tv.png" group-title="Haber",KRT Tv
+https://canlitvme.ismailturret.workers.dev/krttv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tbmm-tv.png" group-title="Haber",Meclis Tv
+https://canlitvme.ismailturret.workers.dev/meclistv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-360.png" group-title="Haber",Tv 360
+https://canlitvme.ismailturret.workers.dev/360tv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/benguturk-tv.png" group-title="Haber",Bengütürk Tv
+https://canlitvme.ismailturret.workers.dev/benguturktv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ulke-tv.png" group-title="Haber",Ülke Tv
+https://canlitvme.ismailturret.workers.dev/ulketv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/a-para.png" group-title="Haber",A Para
+https://canlitvme.ismailturret.workers.dev/apara.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tvnet.png" group-title="Haber",TVNET
+https://canlitvme.ismailturret.workers.dev/tvnet.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/akit-tv.png" group-title="Haber",Akit Tv
+https://canlitvme.ismailturret.workers.dev/akittv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/a-news-canli-yayin.png" group-title="Haber",A News
+https://canlitvme.ismailturret.workers.dev/anews.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/turkhaber-tv.png" group-title="Haber",TH Türk Haber TV
+https://canlitvme.ismailturret.workers.dev/thturkhabertv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-5.png" group-title="Haber",TV5
+https://canlitvme.ismailturret.workers.dev/tv5.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ekol-tv-canli.png" group-title="Haber",Ekol Tv
+https://canlitvme.ismailturret.workers.dev/ekoltv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/gzt-tv-canli.png" group-title="Haber",GZT Tv
+https://canlitvme.ismailturret.workers.dev/gzttv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kan-11.png" group-title="Haber",Kan 11
+https://canlitvme.ismailturret.workers.dev/kan11.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/bein-sports-haber.png" group-title="Spor",Bein Sports Haber
+https://canlitvme.ismailturret.workers.dev/beinsportshaber.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trtspor-canli.png" group-title="Spor",TRT Spor
+https://canlitvme.ismailturret.workers.dev/trtspor.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/a-spor-izle-3.png" group-title="Spor",A Spor
+https://canlitvme.ismailturret.workers.dev/aspor.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/fb-tv.png" group-title="Spor",FB Tv
+https://canlitvme.ismailturret.workers.dev/fbtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/sports-tv.png" group-title="Spor",Sports Tv
+https://canlitvme.ismailturret.workers.dev/sportstv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-spor-yildiz.png" group-title="Spor",TRT Spor Yıldız
+https://canlitvme.ismailturret.workers.dev/trtsporyildiz.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tivibu-spor.png" group-title="Spor",Tivibu Spor
+https://canlitvme.ismailturret.workers.dev/tivibuspor.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ht-spor-canli.png" group-title="Spor",HT Spor
+https://canlitvme.ismailturret.workers.dev/htspor.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ekol-sports-canli.png" group-title="Spor",Ekol Sports
+https://canlitvme.ismailturret.workers.dev/ekolsports.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-muzik.png" group-title="Müzik",TRT Müzik
+https://canlitvme.ismailturret.workers.dev/trtmuzik.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/dreamturk-canli.png" group-title="Müzik",Dream Türk
+https://canlitvme.ismailturret.workers.dev/dreamturk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/power-turk-tv.png" group-title="Müzik",Power Türk Tv
+https://canlitvme.ismailturret.workers.dev/powerturktv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/power-tv.png" group-title="Müzik",Power Tv
+https://canlitvme.ismailturret.workers.dev/powertv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/number-one-turk-tv.png" group-title="Müzik",Number One Türk Tv
+https://canlitvme.ismailturret.workers.dev/numberoneturktv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tempo-tv.png" group-title="Müzik",Tempo TV
+https://canlitvme.ismailturret.workers.dev/tempotv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/yildiz-en-tv.png" group-title="Müzik",Yıldız EN TV
+https://canlitvme.ismailturret.workers.dev/yildizentv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-cocuk.png" group-title="Çocuk",TRT Çocuk
+https://canlitvme.ismailturret.workers.dev/trtcocuk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/minika-cocuk.png" group-title="Çocuk",Minika Çocuk
+https://canlitvme.ismailturret.workers.dev/minikacocuk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/minika-go.png" group-title="Çocuk",Minika Go
+https://canlitvme.ismailturret.workers.dev/minikago.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv4.png" group-title="Çocuk",Tv4
+https://canlitvme.ismailturret.workers.dev/tv4.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-diyanet-cocuk.png" group-title="Çocuk",TRT Diyanet Çocuk
+https://canlitvme.ismailturret.workers.dev/trtdiyanetcocuk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/meltem-tv.png" group-title="Dini",Meltem Tv
+https://canlitvme.ismailturret.workers.dev/meltemtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/dost-tv.png" group-title="Dini",Dost Tv
+https://canlitvme.ismailturret.workers.dev/dosttv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/medine-tv.png" group-title="Dini",Medine Tv
+https://canlitvme.ismailturret.workers.dev/medinetv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/lalegul-tv.png" group-title="Dini",Lalegül TV
+https://canlitvme.ismailturret.workers.dev/lalegultv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/gonca-tv.png" group-title="Dini",Gonca Tv
+https://canlitvme.ismailturret.workers.dev/goncatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/fm-tv.png" group-title="Dini",FM Tv
+https://canlitvme.ismailturret.workers.dev/fmtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-12.png" group-title="Dini",Kanal 12
+https://canlitvme.ismailturret.workers.dev/kanal12.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kudus-tv.png" group-title="Dini",Kudüs TV
+https://canlitvme.ismailturret.workers.dev/kudustv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/rehber-tv.png" group-title="Dini",Rehber TV 
+https://canlitvme.ismailturret.workers.dev/rehbertv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/sat-7-turk.png" group-title="Dini",Sat-7 Türk
+https://canlitvme.ismailturret.workers.dev/sat7turk.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/vav-tv.png" group-title="Dini",Vav TV
+https://canlitvme.ismailturret.workers.dev/vavtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ikra-tv-canli.png" group-title="Dini",İkra Tv
+https://canlitvme.ismailturret.workers.dev/ikratv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-belgesel.png" group-title="Belgesel",TRT Belgesel
+https://canlitvme.ismailturret.workers.dev/trtbelgesel.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/koy-tv.png" group-title="Belgesel",Köy Tv
+https://canlitvme.ismailturret.workers.dev/koytv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tgrt-belgesel.png" group-title="Belgesel",TGRT Belgesel
+https://canlitvme.ismailturret.workers.dev/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ciftci-tv.png" group-title="Belgesel",Çiftçi Tv
+https://canlitvme.ismailturret.workers.dev/ciftcitv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/agro-tv.png" group-title="Belgesel",Agro Tv
+https://canlitvme.ismailturret.workers.dev/agrotv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-42.png" group-title="Yerel",TV42
+https://canlitvme.ismailturret.workers.dev/tv42.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kon-tv.png" group-title="Yerel",Kon Tv
+https://canlitvme.ismailturret.workers.dev/kontv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-v.png" group-title="Yerel",Kanal V
+https://canlitvme.ismailturret.workers.dev/kanalv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal26.png" group-title="Yerel",Kanal 26
+https://canlitvme.ismailturret.workers.dev/kanal26.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-3.png" group-title="Yerel",Kanal 3
+https://canlitvme.ismailturret.workers.dev/kanal3.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv1.png" group-title="Yerel",TV1
+https://canlitvme.ismailturret.workers.dev/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-52.png" group-title="Yerel",Tv52
+https://canlitvme.ismailturret.workers.dev/tv52.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/karabuk-brt-tv.png" group-title="Yerel",BRT Tv
+https://canlitvme.ismailturret.workers.dev/karabukbrttv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ton-tv.png" group-title="Yerel",Ton Tv
+https://canlitvme.ismailturret.workers.dev/tontv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-urfa.png" group-title="Yerel",Kanal Urfa
+https://canlitvme.ismailturret.workers.dev/kanalurfa.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-firat.png" group-title="Yerel",Kanal Fırat
+https://canlitvme.ismailturret.workers.dev/kanalfirat.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-kayseri.png" group-title="Yerel",TV Kayseri
+https://canlitvme.ismailturret.workers.dev/tvkayseri.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/rumeli-tv.png" group-title="Yerel",Rumeli Tv
+https://canlitvme.ismailturret.workers.dev/rumelitv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/aksu-tv.png" group-title="Yerel",Aksu Tv
+https://canlitvme.ismailturret.workers.dev/aksutv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/edessa-tv.png" group-title="Yerel",Edessa Tv
+https://canlitvme.ismailturret.workers.dev/edessatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/line-tv.png" group-title="Yerel",Line Tv
+https://canlitvme.ismailturret.workers.dev/linetv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/guneydogu-tv.png" group-title="Yerel",Güneydoğu Tv
+https://canlitvme.ismailturret.workers.dev/guneydogutv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kadirga-tv.png" group-title="Yerel",Kadırga Tv
+https://canlitvme.ismailturret.workers.dev/kadirgatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kardelen-tv.png" group-title="Yerel",Kardelen Tv
+https://canlitvme.ismailturret.workers.dev/kardelentv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-32.png" group-title="Yerel",Kanal 32
+https://canlitvme.ismailturret.workers.dev/kanal32.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/altas-tv.png" group-title="Yerel",Altaş TV
+https://canlitvme.ismailturret.workers.dev/altastv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/as-tv.png" group-title="Yerel",AS TV
+https://canlitvme.ismailturret.workers.dev/astv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/cay-tv.png" group-title="Yerel",Çay TV
+https://canlitvme.ismailturret.workers.dev/caytv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/deha-tv.png" group-title="Yerel",Deha TV
+https://canlitvme.ismailturret.workers.dev/dehatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/es-tv.png" group-title="Yerel",ES TV
+https://canlitvme.ismailturret.workers.dev/estv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-15.png" group-title="Yerel",Kanal 15
+https://canlitvme.ismailturret.workers.dev/kanal15.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-23.png" group-title="Yerel",Kanal 23
+https://canlitvme.ismailturret.workers.dev/kanal23.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kanal-33.png" group-title="Yerel",Kanal 33
+https://canlitvme.ismailturret.workers.dev/kanal33.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/koza-tv.png" group-title="Yerel",Koza TV
+https://canlitvme.ismailturret.workers.dev/kozatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/malatya-er-tv.png" group-title="Yerel",Malatya ER TV
+https://canlitvme.ismailturret.workers.dev/malatyaertv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/mavi-karadeniz-tv.png" group-title="Yerel",Mavi Karadeniz TV
+https://canlitvme.ismailturret.workers.dev/mavikaradeniztv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/mercan-tv.png" group-title="Yerel",Mercan TV
+https://canlitvme.ismailturret.workers.dev/mercantv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/on6-tv.png" group-title="Yerel",On6 TV
+https://canlitvme.ismailturret.workers.dev/on6tv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/sun-rtv.png" group-title="Yerel",Sun RTV
+https://canlitvme.ismailturret.workers.dev/sunrtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-264.png" group-title="Yerel",TV 264
+https://canlitvme.ismailturret.workers.dev/tv264.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-41.png" group-title="Yerel",TV 41
+https://canlitvme.ismailturret.workers.dev/tv41.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-a.png" group-title="Yerel",TV A
+https://canlitvme.ismailturret.workers.dev/tva.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tvden.png" group-title="Yerel",tvDEN
+https://canlitvme.ismailturret.workers.dev/tvden.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/vuslat-tv.png" group-title="Yerel",Vuslat TV
+https://canlitvme.ismailturret.workers.dev/vuslattv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/konya-olay-tv-canli.png" group-title="Yerel",Konya Olay Tv
+https://canlitvme.ismailturret.workers.dev/konyaolay.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/bir-tv-canli.png" group-title="Yerel",Bir Tv
+https://canlitvme.ismailturret.workers.dev/birtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-arapca.png" group-title="Yabancı",TRT Arapça
+https://canlitvme.ismailturret.workers.dev/trtarapca.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/rudaw-tv.png" group-title="Yabancı",Rüdaw Tv
+https://canlitvme.ismailturret.workers.dev/rudawtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-world.png" group-title="Yabancı",TRT World
+https://canlitvme.ismailturret.workers.dev/trtworld.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/1-tv-georgia.png" group-title="Yabancı",1 TV Georgia
+https://canlitvme.ismailturret.workers.dev/1tvgeorgia.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/iran-international.png" group-title="Yabancı",İran International 
+https://canlitvme.ismailturret.workers.dev/iraninternational.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/alikhbaria-tv.png" group-title="Yabancı",Alikhbaria
+https://canlitvme.ismailturret.workers.dev/alikhbariatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/cbc-sport.png" group-title="Azerbaycan",CBC Sport
+https://canlitvme.ismailturret.workers.dev/cbcsport.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/idman-tv.png" group-title="Azerbaycan",İdman Tv
+https://canlitvme.ismailturret.workers.dev/idmantv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ictimai-tv.png" group-title="Azerbaycan",İctimai Tv
+https://canlitvme.ismailturret.workers.dev/ictimaitv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/az-tv.png" group-title="Azerbaycan",Az Tv
+https://canlitvme.ismailturret.workers.dev/aztv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/xezer-tv.png" group-title="Azerbaycan",Xezer Tv
+https://canlitvme.ismailturret.workers.dev/xezertv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/atv-azad-tv.png" group-title="Azerbaycan",ATV Azad Tv
+https://canlitvme.ismailturret.workers.dev/atvazadtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/space-tv.png" group-title="Azerbaycan",Space Tv
+https://canlitvme.ismailturret.workers.dev/spacetv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/muz-tv.png" group-title="Azerbaycan",Muz Tv
+https://canlitvme.ismailturret.workers.dev/muztv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/medeniyet-tv.png" group-title="Azerbaycan",Medeniyet Tv
+https://canlitvme.ismailturret.workers.dev/medeniyettv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/arb-tv.png" group-title="Azerbaycan",ARB TV
+https://canlitvme.ismailturret.workers.dev/arbtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/arb-24-tv.png" group-title="Azerbaycan",ARB 24 TV
+https://canlitvme.ismailturret.workers.dev/arb24tv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/cbc-az-tv.png" group-title="Azerbaycan",CBC AZ TV
+https://canlitvme.ismailturret.workers.dev/cbcaztv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/dunya-tv.png" group-title="Azerbaycan",Dünya TV
+https://canlitvme.ismailturret.workers.dev/dunyatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/real-tv.png" group-title="Azerbaycan",Real TV
+https://canlitvme.ismailturret.workers.dev/realtv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tek-rumeli-tv.png" group-title="Yerel",Tek Rumeli Tv
+https://canlitvme.ismailturret.workers.dev/tekrumelitv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ekin-tv.png" group-title="Yerel",Ekin Tv
+https://canlitvme.ismailturret.workers.dev/ekintv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/brt-3.png" group-title="KKTC",brt 3
+https://canlitvme.ismailturret.workers.dev/brt3.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/brt-2.png" group-title="KKTC",brt 2
+https://canlitvme.ismailturret.workers.dev/brt2.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ada-tv.png" group-title="KKTC",Ada TV
+https://canlitvme.ismailturret.workers.dev/adatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/brt-1-tv.png" group-title="KKTC",BRT 1
+https://canlitvme.ismailturret.workers.dev/brt1tv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kibris-genc-tv.png" group-title="KKTC",Kıbrıs Genç TV
+https://canlitvme.ismailturret.workers.dev/kibrisgenctv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/kibris-tv.png" group-title="KKTC",Kıbrıs TV
+https://canlitvme.ismailturret.workers.dev/kibristv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/tv-2020.png" group-title="KKTC",TV 2020
+https://canlitvme.ismailturret.workers.dev/tv2020.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/eba-tv-lise.png" group-title="Diğer",TRT Eba Tv
+https://canlitvme.ismailturret.workers.dev/ebatv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/iran-press.png" group-title="İran",İran Press
+https://canlitvme.ismailturret.workers.dev/iranpress.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/rtl-live.png" group-title="Deutsche",RTL
+https://canlitvme.ismailturret.workers.dev/rtllive.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ard-live.png" group-title="Deutsche",ARD
+https://canlitvme.ismailturret.workers.dev/ardlive.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/zdf-live.png" group-title="Deutsche",ZDF
+https://canlitvme.ismailturret.workers.dev/zdflive.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/prosieben-live.png" group-title="Deutsche",ProSieben
+https://canlitvme.ismailturret.workers.dev/prosiebenlive.m3u8
+#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/vox-live.png" group-title="Deutsche",Vox
+https://canlitvme.ismailturret.workers.dev/voxlive.m3u8
