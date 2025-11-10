@@ -17,10 +17,6 @@ http://ip131.radyotelekom.com:9832/;
 https://radyo.bursadabugun.com/stream
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-xYWSJ-O_WhE/WaF5Bm7ztSI/AAAAAAAAT_g/nln19UuWJywHnmGdEQ89sI3biisU6HvZgCLcBGAs/s1600/d.jpg" group-title="RADYO 02",DAMAR FM
 http://yayin.damarfm.com:8080/;
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-i2z9JROnTME/WaKmCCVSVzI/AAAAAAAAUBc/NIqOYRCxls48mKrNpw593B4MyCnvBU60QCLcBGAs/s1600/s.jpg" group-title="RADYO 02",DENİZLİ SES RADYO
-http://95.173.188.166:9300/;
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-AvGXm8CavA0/WaKq3D2ovcI/AAAAAAAAUBs/NMWewl3wrA8BmSZHmEQjatfXzrhMblLnQCLcBGAs/s1600/rd.jpg" group-title="RADYO 02",DERYA FM Konya
-http://nonstopkonya.canliyayinda.com:9898/;
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gBQyWWVPTKs/Wj0KXES0ZxI/AAAAAAAAVo4/hDn5Vo0Si0cjUAmEUaIFUW9lXgNdityxwCLcBGAs/s1600/09.jpg" group-title="RADYO 02",DOST FM Hatay
 http://yayin.netyayin.net:1515/streype=.mp3
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-IkStuYJOiYM/WaJyXhsWsWI/AAAAAAAAUAs/KCNYkLVYMQsUoh7zDin1ZGleMbxjw26xQCLcBGAs/s1600/e4.jpg" group-title="RADYO 02",EFSANE 4'LÜ
@@ -29,10 +25,6 @@ http://37.247.98.8/stream/19/
 http://37.247.98.8/stream/29/
 #EXTINF:-1 tvg-logo="https://www.kreactif.com/photo/images/logolar/radyo-2000-elazig-logo.jpg" group-title="RADYO 02",ELAZIĞ RADYO 2000
 http://yayin.turkiletisim.com.tr:1092/;
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4e1srtlSYMo/Wto-6HrLoCI/AAAAAAAAWDo/tmfANNIgfR4CfDV92IprjuZKRwRequpcwCLcBGAs/s1600/h.jpg" group-title="RADYO 02",ELAZIĞ RADYO HAZAR
-http://radyohazar.canliyayinda.com:8286/;
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wfj5IekgVvk/WaQeCJXPHWI/AAAAAAAAUOY/gI8Vkr6LixAW2AKWK8TCNh83wrkKDTvTQCLcBGAs/s1600/23.jpg" group-title="RADYO 02",FM 23
-http://radyofm23.canliyayinda.com:8280/;
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-V967uMRLyi8/WaQtMnPRx7I/AAAAAAAAUPw/cxxccCWOMFwEr0xYJYavj82u34aBG0F9ACLcBGAs/s1600/g.jpg" group-title="RADYO 02",GİMSA RADYO
 http://yayin.canliyayin.org:9482/;
 #EXTINF:-1,DT Nostalji
