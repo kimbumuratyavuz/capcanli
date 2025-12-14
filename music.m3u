@@ -1,15 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Derya Bedavacı - Seni Seven Kimdi",Derya Bedavacı - Seni Seven Kimdi
-https://image2url.com/audio/1765626872502-9a60f0fa-c8fb-476b-861a-4b775849716e.mp3
-#EXTINF:-1 tvg-name="Gökhan Namlı & tekironline - Vursunlar Roman Version",Gökhan Namlı & tekironline - Vursunlar Roman Version
+#EXTINF:-1 group-title="Pop",Gökhan Namlı & tekironline - Vursunlar Roman Version
 https://image2url.com/audio/1765624518978-eb14174b-8323-427b-bec2-a7ada01ae0fc.mp3
-#EXTINF:-1 tvg-name="İçim Yanar - Şahin Kendirci",İçim Yanar - Şahin Kendirci
-https://image2url.com/audio/1765624718538-b9689700-5ec0-4213-91e8-25b86e86242b.mp3
-#EXTINF:-1 tvg-name="POIZI - PERDE",POIZI - PERDE
-https://image2url.com/audio/1765624784897-b24942df-e8cf-4161-b6f0-cad1eb309521.mp3
-#EXTINF:-1 tvg-name="POIZI & MURAT BOZ - YAPAR MISIN",POIZI & MURAT BOZ - YAPAR MISIN
-https://image2url.com/audio/1765626919737-69ca4763-6f21-4aba-af82-f36682434db5.mp3
-#EXTINF:-1 tvg-name="Samet Kardeşler x Sıla Şahin - Aldanırım",Samet Kardeşler x Sıla Şahin - Aldanırım
+#EXTINF:-1 group-title="Pop",Samet Kardeşler x Sıla Şahin - Aldanırım
 https://image2url.com/audio/1765624853222-d693e9f9-fe75-4e2a-969b-28537c078522.mp3
-#EXTINF:-1 tvg-name="Semicenk - Çıkmaz Bir Sokakta",Semicenk - Çıkmaz Bir Sokakta
+#EXTINF:-1 group-title="Pop",Melis Fis - Misket
+https://image2url.com/audio/1765670154886-f6e8207f-592a-4a5d-a400-91d5128bde5d.mp3
+#EXTINF:-1 group-title="Pop",Kör Sevdam - Zeynep Bastık
+https://image2url.com/audio/1765670195701-16934857-b705-427a-b73f-eb0109f344b3.mp3
+#EXTINF:-1 group-title="Pop",Burak Bulut & Serdar Ortaç - Yasemin
+https://image2url.com/audio/1765670247875-f314787d-defd-41d1-9f9b-43e3d0035773.mp3
+#EXTINF:-1 group-title="Pop",Dedublüman x Aleyna Tilki - Sana Güvenmiyorum
+https://image2url.com/audio/1765670504099-1239473c-6859-4962-b7ad-bf310b7f3200.mp3
+#EXTINF:-1 group-title="Slow",Sezen Aksu - Ey Aşk
+https://image2url.com/audio/1765669565548-703ea493-c5cf-475a-8d5d-7da3665a13cd.mp3
+#EXTINF:-1 group-title="Slow",Emre Fel - Sana El Pençe Durmam
+https://image2url.com/audio/1765669794296-c85257fa-de18-4049-b4c1-f46927dc6aef.mp3
+#EXTINF:-1 group-title="Rap",Semicenk - Gözlerinden Gözlerine
+https://image2url.com/audio/1765669706428-6e2e2952-ee6e-4d44-9dd2-f276a2c4083e.mp3
+#EXTINF:-1 group-title="Rap",Amo988 - Sar Zamanımızı Geriye
+https://image2url.com/audio/1765669752578-bd3dbe2c-b2a8-41c3-bc8e-8b6d208fbba9.mp3
+#EXTINF:-1 group-title="Rap",POIZI - Kimseler Duymasın
+https://image2url.com/audio/1765669907467-63e7836d-ca72-4afa-8e3b-aa95e37336aa.mp3
+#EXTINF:-1 group-title="Rap",POIZI - Perde
+https://image2url.com/audio/1765624784897-b24942df-e8cf-4161-b6f0-cad1eb309521.mp3
+#EXTINF:-1 group-title="Rap",POIZI & MURAT BOZ - Yapar mısın?
+https://image2url.com/audio/1765626919737-69ca4763-6f21-4aba-af82-f36682434db5.mp3
+#EXTINF:-1 group-title="Rap",Semicenk - Çıkmaz Bir Sokakta
 https://image2url.com/audio/1765624888147-5b923e48-9fca-4161-8d62-9be6aa858dd2.mp3
+#EXTINF:-1 group-title="Rap",BLOK3 - SEVMEYİ DENEMEDİN
+https://image2url.com/audio/1765670416478-568a5131-e3f1-4ef1-a323-94c3beaa1e2e.mp3
+#EXTINF:-1 group-title="Rap",Keşke - Blok3
+https://image2url.com/audio/1765670456822-99b36d73-f56e-41eb-956d-203fe8d7f3bc.mp3
+#EXTINF:-1 group-title="Arabesk",Derya Bedavacı - Çık Artık Aklımdan
+https://image2url.com/audio/1765669963689-63b0d686-74c1-4879-a472-c20540f8a5f4.mp3
+#EXTINF:-1 group-title="Arabesk",Derya Bedavacı - Seni Seven Kimdi
+https://image2url.com/audio/1765626872502-9a60f0fa-c8fb-476b-861a-4b775849716e.mp3
+#EXTINF:-1 group-title="Arabesk",İçim Yanar - Şahin Kendirci
+https://image2url.com/audio/1765624718538-b9689700-5ec0-4213-91e8-25b86e86242b.mp3
