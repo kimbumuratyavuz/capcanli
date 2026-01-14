@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/73/Kafa_Radyo_logo.png",Kafa Radyo
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://www.radyotvonline.com/assets/images/radio/90lar.png",90'lar FM
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/44/Power_Turk_logo.png",Power FM
+https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Karadeniz_FM_logo.png",Karadeniz FM
+https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TRT_logo.svg",TRT Memleketim FM
+https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TRT_logo.svg",TRT Türkiye'nin Sesi
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://www.radyotvonline.com/assets/images/radio/arabeskland.png",Arabeskland
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/Baba_Radyo_logo.png",Baba Radyo
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/Kral_Pop_Radyo_logo.png",Kral Pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w1813872028_b128000.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/44/Power_Turk_logo.png",Power Türk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://www.radyotvonline.com/assets/images/radio/palnostalji.png",Pal Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3c/Radyo_D_logo.png",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3e/Radyo_Fenomen_logo.png",Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://www.powerapp.com.tr/assets/images/power-pop.png",Power Pop
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8e/Best_FM_logo.png",Best FM
+https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6e/Fenerbah%C3%A7e_FM_logo.png",Fenerbahçe FM
+https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2f/Radyo_Voyage_logo.png",Radyo Voyage
+https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-juODCXGvgPI/WZwLihjks4I/AAAAAAAATvw/inx1PhLcazcfUitAtjYSljX5_NNUWELfACLcBGAs/s1600/05.jpg" group-title="RADYO 01",AFYON GÜN FM
 http://ssl120.radyotelekom.com.tr/8130/stream
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9IyicWL5ZRU/WZwOlsUj3nI/AAAAAAAATwM/T_o5F4OdyEs3N3cMLKl9WJtnHT-6IvdnwCLcBGAs/s1600/08.jpg" group-title="RADYO 01",AKSARAY KRAL FM
