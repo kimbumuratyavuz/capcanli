@@ -20,7 +20,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/29723/logo_256_1734935765.png" group-title="ULUSAL",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="HABER",TRT Haber
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.haberglobal.com/storage/files/images/2022/01/11/mikrofon-logo-1-1-QENs.png" group-title="HABER",Haber Global
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.ensonhaber.com/canli-tv/haberglobal_canliyayin&ext=m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png" group-title="HABER",Ülke TV
