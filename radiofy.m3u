@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kral FM
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kral Pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Turkuvaz Efsane
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",İstanbul FM
+https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",İmbat FM
+https://radyo.medyahost.com.tr/8034/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Mydonose
+https://playerservices.streamtheworld.com/api/livestream-redirect/MYDONOSE_TURK128AAC.aac
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",PowerTürk Taptaze
+https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Power Pop
+https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",PowerTürk Akustik
+https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",TRT FM
+https://rd-trtfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",TRT Radyo Haber
+https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kafa Radyo
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Alem FM
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Süper FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_ITUNES.mp3
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Show Radyo
+https://showradyo.radyotvonline.net/showradyoaac
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Küpe FM
+https://icecast.netmedya.net/kupefm?t=1789066491952
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Joy Türk
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK128AAC.aac
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Pal Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 45lik
+https://stream.radyo45lik.com:4545/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Fenomen
+https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Viva
+https://radyoviva.radyotvonline.net/radyovivaaac
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Best FM
+https://officialbestfm.radyotvonline.net/bestfmofficial
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Slow Türk
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Meteorolojinin Sesi Radyosu
+https://radyomgm.canliyayinda.com/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Pal FM
+https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Metropol FM
+https://stream2.rtvtakip.com:7034/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Mega
+https://radyo.yayin.com.tr:4052/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Alaturka
+https://yayin.jumboserver.net:9100/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Trafik
+https://wowza1.radyotvonline.com/saran/trafik.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Trafik Türkiye
+https://moondigitaledge.radyotvonline.net/radyotrafikmarmara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Lokum FM
+http://37.247.98.9/stream/493/?/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kalp FM
+https://yayin.kalpfm.com:8080/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Damar FM
+http://yayin.damarfm.com:8080/;?type=mp3
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Arabesk FM
+http://yayin.arabeskfm.biz:8042/;?type=mp3
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 7
+http://46.20.3.250/;?type=mp3
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 7 | Slow
+http://37.247.98.8/stream/27/
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 7 | Karışık
+http://46.20.3.250/;?type=mp3stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 7 | Arabesk
+http://37.247.98.8/stream/19/
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 7 | Home
+http://37.247.98.8/stream/20/
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 7 | Türkü
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Armoni
+https://radyo.yayindakiler.com:4084/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Hisar
+https://radyo.yayindakiler.com:4006/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Kolaylı
+http://stream2.rtvtakip.com:8004/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Gün FM
+https://ssl120.radyotelekom.com.tr/8130/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Lojik
+https://yayin.kayamedya.com.tr:1303/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Türkü Radyo
+https://yayin.turkhosted.com/4591/stream
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Arabesk Vadisi
+https://arabeskv.80.yayin.com.tr/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Arabesk FM
+http://yayin.arabeskfm.biz:8042/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Ada FM
+https://radyo.yayin.com.tr:6040/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Slow Karadeniz FM
+https://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Karadeniz Türk
+https://furuncu.kesintisizyayin.com:8042/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kemençe FM
+https://ip132.ozelip.com:8058/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kral Türk
+http://live.radyositesihazir.com:8032/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Tatlıses
+http://sslyayin.radyoyayini.com:8002/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Yakamoz
+http://live4.radyotvonline.com:6570/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Derman
+https://ssl120.radyotelekom.com.tr:8710/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Gırebi
+https://radyogirebi.kesintisizyayin.com:8066/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Delta
+https://anadolu.liderhost.com.tr:10954/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Rize
+https://n227.ozelip.com:8010/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 2000
+http://radyo2000.radyomhd.com:1100/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo 38
+https://anadolu.liderhost.com.tr:10892/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Damar Türk
+http://live.radyositesihazir.com:7000/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Rize Türk
+https://furuncu.kesintisizyayin.com:8044/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Çayeli FM
+https://furuncu.kesintisizyayin.com:8078/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Gelişim FM
+https://radyo.yayindakiler.com:4008/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Hayal FM
+http://yayin.radyohayalfm.net:8050/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Öter FM
+https://radyo1.radyo-dinle.tc:7088/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Mercan FM
+https://ip169.ozelip.com:10975/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Lokum FM
+http://37.247.98.9/stream/493/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Damar FM
+https://yayin.damarfm.com:8080/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Gebze FM
+http://gebzefm.radyotvyayini.com:9530/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Merkez FM
+https://sslyayin.radyoyayini.com:7007/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",İncitek FM
+http://yayin2.yayindakiler.com:4204/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Fıstık FM
+https://sslyayin.radyoyayini.com:7029/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",24 Arabesk
+http://24arabesk.80.yayin.com.tr/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Halk Radyo
+https://anadolu.liderhost.com.tr:10876/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Maksat
+https://live.sinirsizhost.com:8038/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Dede
+https://live.sinirsizhost.com:8080/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Denge Zelal FM
+https://ssl120.radyotelekom.com.tr:8546/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Efsane
+http://37.247.98.8/stream/19/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Kanka
+https://radyo1.radyo-dinle.tc:8106/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Clas
+https://radyo.yayin.com.tr:5568/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Tutku
+https://radyo.radyoimza.com:8024/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Blue Karadeniz
+https://sslyayin.netyayin.net/bluekaradeniz/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Anadolu'nun Sesi
+https://live.sinirsizhost.com:8069/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Asya FM
+https://live.sinirsizhost.com:8004/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Çankırı FM
+https://sslyayin.radyoyayini.com:7066/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Karadeniz
+https://dinle.radyokaradeniz.com/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Vitamin FM
+https://ip.vitaminfm.com:8190/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Zirve FM
+https://radyo.iznel.com:8010/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Songul Zar Radyo
+https://live.sinirsizhost.com/8034/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Rize FM
+https://radyo.medyahost.com.tr/8036/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Sevimli
+https://radyo.medyahost.com.tr:8004/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Sohbet
+https://radyoserver1.okeylisans.com:8862/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Garagız FM
+https://host10.onlineradyotv.net:7027/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Tatlı FM
+https://rserver60.okeylisans.com:8932/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Limon FM
+https://rserver62.okeylisans.com:9440/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kiraz FM
+https://rserver62.okeylisans.com:8214/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Türkyeri FM
+https://radyoserver1.okeylisans.com:8072/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo FI
+https://radyoserver3.okeylisans.com:8114/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Mavim FM
+https://radyoserver.jrodix.com:7010/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Trend
+https://radyoserver.jrodix.com:7005/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Gurbet FM
+https://yayin5.radyohizmeti.com:10852/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Vuslat FM
+https://radyo.yayin.com.tr:4314/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Sondem FM
+https://host10.onlineradyotv.net:7025/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Tektaş FM
+https://radyo.yayin.com.tr:5466/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Asalet FM
+https://yayin.asaletfm.com:8014/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Nadir FM
+https://yayin.nadirfm.com:8026/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Ayyıldız FM
+https://dj.radyohostu.com:8016/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Sempatik FM
+https://yayin.sempatikfm.com:8038/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Solyanım FM
+https://yayin.solyanimfm.com.tr:8018/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Kum Tanesi FM
+https://radyo.iznel.com:8042/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Eko FM
+https://ssl22.radyotelekom.com:8004/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Pırlanta FM
+https://ip232.radyotelekom.com.tr:8318/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Karagül FM
+https://radyo.medyahost.com.tr:8002/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Zeycan FM
+https://host10.onlineradyotv.net:7045/;
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Radyo Şahin
+https://sslyayin.netyayin.net/8070/stream/;stream.mp3
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",Aşk FM
+https://stream.netradyom.com/listen/askfm1/radio.mp3
+#EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20240626/antique-radio-old-fashioned-nostalgic-vintage-audio_10638069.png!bw800" group-title="Radyolar",TRT Radyo1
+https://trt.radyotvonline.net/trt1
