@@ -31,8 +31,22 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="HABER",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/33258/logo_256.jpg" group-title="SPOR",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/960px-Logo_bein_sports_1.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 1
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 2
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 3
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/960px-Logo_bein_sports_4.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 4
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/960px-Logo_BeinSports_5_MAX.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR",Bein Sports 5
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/tr/thumb/8/82/S_Sport_logo.jpg/960px-S_Sport_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20180827151722" group-title="SPOR",S Sport 1
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/tr/thumb/e/ed/S_Sport_2_logo.jpg/960px-S_Sport_2_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20180827152027" group-title="SPOR" ,S Sport 2
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport2/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp9YQLxlNh3fR8D778pE-vVH97IfnFFtoa_Hf9TTp6g&s=10" group-title="SPOR",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/images/logo.png" group-title="SPOR",TRT Spor Yıldız
